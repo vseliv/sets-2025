@@ -8,6 +8,6 @@
 
 Успеха на зачете! Напоминаю, что при выставлении оценки учитывается рейтинг по практическим занятиям, результат контрольной, и собеседование на зачете.
 
-[Таблица с результатами](https://docs.google.com/spreadsheets/d/11PnUCI7sD1wD1jTbNjdllY5n85fAyNVDdoEhmNYuVRA/edit?gid=0#gid=0)
+[Таблица с результатами](https://docs.google.com/spreadsheets/d/1C0XYQaI92JMlk7wUbX1eA3l36-3RAs4sxHjxKsHGs5M/edit?gid=0#gid=0)
 
 
